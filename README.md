@@ -2,4 +2,4 @@
 
 Source/tutorial: https://www.youtube.com/watch?v=L8ypSXwyBds
 
-[![Watch the video](https://i.imgur.com/SWwHKHR.jpeg)](https://youtu.be/vt5fpE0bzSY)
+[![Training video](https://i.imgur.com/SWwHKHR.jpeg)](https://www.youtube.com/watch?v=4UrZ4H1ZlJM)
