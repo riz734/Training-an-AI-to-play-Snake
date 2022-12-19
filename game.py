@@ -35,7 +35,7 @@ BLUE2 = (0, 100, 255)
 BLACK = (0,0,0)
 
 BLOCK_SIZE = 20
-SPEED = 20
+SPEED = 50
 
 class SnakeGameAI:
     
@@ -111,7 +111,7 @@ class SnakeGameAI:
             pt = self.head
 
         # hits boundary
-        if pt.head.x > self.w - BLOCK_SIZE or self.pt.x < 0 or self.pt.y > self.h - BLOCK_SIZE or self.pt.y < 0:
+        if pt.x > self.w - BLOCK_SIZE or pt.x < 0 or pt.y > self.h - BLOCK_SIZE or pt.y < 0:
             return True
         # hits itself
         if pt in self.snake[1:]:
