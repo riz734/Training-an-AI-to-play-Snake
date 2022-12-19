@@ -2,4 +2,4 @@
 
 Source/tutorial: https://www.youtube.com/watch?v=L8ypSXwyBds
 
-(https://imgur.com/t/neural_network/jMCctIw)](https://youtu.be/4UrZ4H1ZlJM)
+[![Watch the video](https://i.imgur.com/SWwHKHR.jpeg)](https://youtu.be/vt5fpE0bzSY)
